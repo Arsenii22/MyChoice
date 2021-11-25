@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Мой выбор</string>
+    <string name="title_interests">Интересы моих детей</string>
+    <string name="title_all">Все секции</string>
+    <string name="title_profile">Мой профиль</string>
+    <string name="title_activity_login">Войти в аккаунт</string>
+    <string name="title_activity_register">Зарегистрироваться</string>
+    <string name="go_login_text">Уже есть аккаунт?</string>
+    <string name="go_register_text">Зарегистрироваться</string>
+    <string name="forgot_password_text">Забыли пароль?</string>
+    <string name="title_activity_update_password">Новый пароль</string>
+    
+    
+    <string-array name="cities">
+        <item>Абзаково</item>
+        <item>Абрау-Дюрсо</item>
+        <item>Адлер</item>
+        <item>Александров</item>
+        <item>Алушта</item>
+        <item>Анапа</item>
+        <item>Архипо-Осиповка</item>
+        <item>Архыз</item>
+        <item>Астрахань</item>
+        <item>Балтийск</item>
+        <item>Бахчисарай</item>
+        <item>Белокуриха</item>
+        <item>Береговое</item>
+        <item>Благовещенская</item>
+        <item>Большой Утриш</item>
+        <item>Великий Новгород</item>
+        <item>Великий Устюг</item>
+        <item>Витязево</item>
+        <item>Владивосток</item>
+        <item>Владимир</item>
+        <item>Волгоград</item>
+        <item>Выборг</item>
+        <item>Гаврилов Посад</item>
+        <item>Геленджик</item>
+        <item>Голубицкая</item>
+        <item>Горячий Ключ</item>
+        <item>Гурзуф</item>
+        <item>Дербент</item>
+        <item>Дивноморское</item>
+        <item>Дмитров</item>
+        <item>Домбай</item>
+        <item>Евпатория</item>
+        <item>Ейск</item>
+        <item>Екатеринбург</item>
+        <item>Ессентуки</item>
+        <item>Железноводск</item>
+        <item>Зарайск</item>
+        <item>Звенигород</item>
+        <item>Иркутск</item>
+        <item>Истра</item>
+        <item>Йошкар-Ола</item>
+        <item>Кабардинка</item>
+        <item>Казань</item>
+        <item>Калининград</item>
+        <item>Керчь</item>
+        <item>Кировск</item>
+        <item>Кисловодск</item>
+        <item>Коктебель</item>
+        <item>Коломна</item>
+        <item>Кострома</item>
+        <item>Красная Поляна</item>
+        <item>Краснодар</item>
+        <item>Кронштадт</item>
+        <item>Курган</item>
+        <item>Лазаревское</item>
+        <item>Лахденпохья</item>
+        <item>Лоо</item>
+        <item>Манжерок</item>
+        <item>Мезмай</item>
+        <item>Москва</item>
+        <item>Нижний Новгород</item>
+        <item>Николаевка</item>
+        <item>Новая Евпатория</item>
+        <item>Новомихайловский</item>
+        <item>Новосибирск</item>
+        <item>Оленевка</item>
+        <item>Палех</item>
+        <item>Партенит</item>
+        <item>Переславль-Залесский</item>
+        <item>Пермь</item>
+        <item>Петергоф</item>
+        <item>Поповка</item>
+        <item>Приморский</item>
+        <item>Приморско-Ахтарск</item>
+        <item>Пятигорск</item>
+        <item>Ростов Великий</item>
+        <item>Ростов-на-Дону</item>
+        <item>Рыбачье</item>
+        <item>Самара</item>
+        <item>Санкт-Петербург</item>
+        <item>Светлагорск</item>
+        <item>Свияжск</item>
+        <item>Севастополь</item>
+        <item>Симеиз</item>
+        <item>Симферополь</item>
+        <item>Сочи</item>
+        <item>Ставрополь</item>
+        <item>Судак</item>
+        <item>Суздаль</item>
+        <item>Сукко</item>
+        <item>Таганрог</item>
+        <item>Тверь</item>
+        <item>Туапсе</item>
+        <item>Тула</item>
+        <item>Феодосия</item>
+        <item>Ханты-Мансийск</item>
+        <item>Хоста</item>
+        <item>Челябинск</item>
+        <item>Шерегеш</item>
+        <item>Шуя</item>
+        <item>Юрьев-Польский</item>
+        <item>Ялта</item>
+        <item>Ярославль</item>
+    </string-array>
+</resources>

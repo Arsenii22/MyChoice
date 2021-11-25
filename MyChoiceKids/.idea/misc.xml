@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/drawable/roundedbtn.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/layout-large/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/layout-small/activity_main.xml" value="0.31680830972615676" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.23560910307898258" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/layout-w936dp/activity_login.xml" value="0.258879781420765" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/layout/activity_registration.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/layout/activity_update_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/layout/card_all.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/layout/fragment_all.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/layout/fragment_dashboard.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/layout/fragment_home.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/layout/fragment_interests.xml" value="0.3038949275362319" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/layout/fragment_notifications.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/layout/list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoice/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyChoiceKids/app/src/main/res/layout/fragment_profile.xml" value="0.3319746376811594" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
