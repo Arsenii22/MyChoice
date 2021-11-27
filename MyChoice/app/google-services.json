@@ -34,6 +34,35 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19656106977:android:239d72dfa4a49c4939a8a0",
+        "android_client_info": {
+          "package_name": "com.arsenii.my_choice_kids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19656106977-l5dagi9it7v93v2husq2hog1rkotdksn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_hHNUeNoU1LkaqyWPbolNIzRzQA6jYvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19656106977-l5dagi9it7v93v2husq2hog1rkotdksn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"

@@ -12,19 +12,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.МойВыбор">
         <activity
-            android:name="com.arsenii.my_choice_kids.login_and_registration.UpdatePassword"
+            android:name=".Quiz"
+            android:exported="false" />
+        <activity
+            android:name=".login_and_registration.UpdatePassword"
             android:exported="false"
             android:label="@string/title_activity_update_password" />
         <activity
-            android:name="com.arsenii.my_choice_kids.login_and_registration.RegistrationActivity"
+            android:name=".login_and_registration.RegistrationActivity"
             android:exported="false"
             android:label="@string/title_activity_register" />
         <activity
-            android:name="com.arsenii.my_choice_kids.login_and_registration.LoginActivity"
+            android:name=".login_and_registration.LoginActivity"
             android:exported="false"
-            android:label="@string/title_activity_login"></activity>
+            android:label="@string/title_activity_login" />
         <activity
-            android:name="com.arsenii.my_choice_kids.MainActivity"
+            android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name">
             <intent-filter>

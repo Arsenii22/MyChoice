@@ -9,8 +9,8 @@
     <string name="go_register_text">Зарегистрироваться</string>
     <string name="forgot_password_text">Забыли пароль?</string>
     <string name="title_activity_update_password">Новый пароль</string>
-    
-    
+
+
     <string-array name="cities">
         <item>Абзаково</item>
         <item>Абрау-Дюрсо</item>

@@ -12,13 +12,8 @@ import android.widget.Toast
 import com.arsenii.my_choice.R
 import com.arsenii.my_choice.login_and_registration.LoginActivity
 import com.arsenii.my_choice.login_and_registration.UpdatePassword
-import com.arsenii.my_choice.login_and_registration.User
 import com.google.firebase.auth.ktx.auth
-import com.google.firebase.database.DataSnapshot
-import com.google.firebase.database.DatabaseError
 import com.google.firebase.database.FirebaseDatabase
-import com.google.firebase.database.ValueEventListener
-import com.google.firebase.database.ktx.database
 import com.google.firebase.ktx.Firebase
 
 class ProfileFragment : Fragment() {

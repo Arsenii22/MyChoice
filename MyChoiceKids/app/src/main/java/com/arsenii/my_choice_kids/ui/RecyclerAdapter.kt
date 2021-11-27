@@ -10,10 +10,9 @@ import androidx.recyclerview.widget.RecyclerView
 import com.arsenii.my_choice_kids.R
 
 
-class RecyclerAdapter(organizationsList: MutableList<String>, organizationsTypesList: MutableList<String>, organizationsAddressesList: MutableList<String>) : RecyclerView.Adapter<RecyclerAdapter.ViewHolder>() {
+class RecyclerAdapter(organizationsList: MutableList<String>, organizationsAddressesList: MutableList<String>) : RecyclerView.Adapter<RecyclerAdapter.ViewHolder>() {
 
     private val organizations: MutableList<String> = organizationsList
-    private val organizationsTypes: MutableList<String> = organizationsTypesList
     private val organizationsAddresses: MutableList<String> = organizationsAddressesList
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
@@ -23,8 +22,7 @@ class RecyclerAdapter(organizationsList: MutableList<String>, organizationsTypes
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         holder.itemTitle.text = organizations[position]
-        holder.itemType.text = organizationsTypes[position]
-        holder.itemImage.setImageResource(R.drawable.ic_launcher_background)
+        holder.itemImage.setImageResource(R.mipmap.ic_launcher)
     }
 
     override fun getItemCount(): Int {
@@ -32,23 +30,19 @@ class RecyclerAdapter(organizationsList: MutableList<String>, organizationsTypes
     }
 
     inner class ViewHolder(itemView: View): RecyclerView.ViewHolder(itemView){
-        var itemImage: ImageView
-        var itemTitle: TextView
-        var itemType: TextView
+        var itemImage: ImageView = itemView.findViewById(R.id.item_image)
+        var itemTitle: TextView = itemView.findViewById(R.id.item_title)
 
         init {
-            itemImage = itemView.findViewById(R.id.item_image)
-            itemTitle = itemView.findViewById(R.id.item_title)
-            itemType = itemView.findViewById(R.id.item_type)
 
             itemView.setOnClickListener{
                 val position: Int = adapterPosition
                 val alertDialog = AlertDialog.Builder(itemView.context)
 
                 alertDialog.apply {
-                    setIcon(R.drawable.ic_launcher_background)
+                    setIcon(R.mipmap.ic_launcher)
                     setTitle("Кружок \"${organizations[position]}\"")
-                    setMessage("Деятелность: ${organizationsTypes[position]}\nАдрес: ${organizationsAddresses[position]}")
+                    setMessage("Адрес: ${organizationsAddresses[position]}")
                     setPositiveButton("Закрыть") { dialog, _ ->
                         dialog.cancel()
                     }

@@ -12,19 +12,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.МойВыбор">
         <activity
-            android:name=".login_and_registration.UpdatePassword"
+            android:name="com.arsenii.my_choice.login_and_registration.UpdatePassword"
             android:exported="false"
             android:label="@string/title_activity_update_password" />
         <activity
-            android:name=".login_and_registration.RegistrationActivity"
+            android:name="com.arsenii.my_choice.login_and_registration.RegistrationActivity"
             android:exported="false"
             android:label="@string/title_activity_register" />
         <activity
-            android:name=".login_and_registration.LoginActivity"
+            android:name="com.arsenii.my_choice.login_and_registration.LoginActivity"
             android:exported="false"
-            android:label="@string/title_activity_login"></activity>
+            android:label="@string/title_activity_login" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.arsenii.my_choice.MainActivity"
             android:exported="true"
             android:label="@string/app_name">
             <intent-filter>
